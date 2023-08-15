@@ -19,3 +19,4 @@ This script was designed around 96wp CCNE1 HiBiT assay output, but could normali
 - ```data.csv```: CSV output from GloMax Discover
 - ```annot.csv```: List of treatment annotations
 - ```doses.csv```: List of doses, in uM (expect 3 doses)
+
