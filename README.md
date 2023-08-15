@@ -1,5 +1,8 @@
 # hibit96
 
+## Copyright
+SLD 2023
+
 ## Description
 Script for normalizing test-well RLU data, to on-plate vehicle-well RLU data, as acquired as comma-separated values (CSV) by a GloMax Discover instrument, using 96wp acquisition format.
 
