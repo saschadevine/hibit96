@@ -39,6 +39,6 @@ Expect technical duplicates of three decreasing dose points, left-to-right in ad
 
 ![Expected dose mapping](./dose-map.png)
 
-If successful, should receive the following output as CSV, mapping treatment names and doses onto well IDs, and providing raw and normalized data:
+If successful, should receive CSV output resembling the following: treatment names and doses mapped onto well IDs, along with corresponding raw and normalized data:
 
 ![Expected output](./example.png)
