@@ -28,7 +28,7 @@ This script was designed around output from SLD's 96wp CCNE1 HiBiT assay, but wi
 ## Input Requirements
 Script requires the following files:
 - ```data.csv```: CSV output from GloMax Discover
-- ```annot.csv```: List of treatment annotations
+- ```annot.csv```: List of treatments (expect 16 treatments)
 - ```doses.csv```: List of doses, in uM (expect 3 doses)
 
 Script expects that ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled, from a plate obeying this layout:
