@@ -34,3 +34,5 @@ Script requires the following files:
 Script expects that ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled, from a plate obeying this layout:
 
 ![alt text](./assay-plt-map.png)
+
+Expect technical duplicates of three dose points, in adjacent columns
