@@ -35,6 +35,6 @@ Script expects that ```data.csv``` was acquired on a GloMax Discover instrument,
 
 ![alt text](./cmpd-map.png)
 
-Expect technical duplicates of three decreasing dose points, left-to-right in adjacent columns, as per this layout:
+Expect technical duplicates of three decreasing dose points, left-to-right in adjacent columns; and 2x treatment conditions per row, as per this layout:
 
 ![alt text](./dose-map.png)
