@@ -32,4 +32,5 @@ Script requires the following files:
 - ```doses.csv```: List of doses, in uM (expect 3 doses)
 
 Script expects that ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled, from a plate obeying this layout:
+
 ![alt text](./assay-plt-map.png)
