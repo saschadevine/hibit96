@@ -33,8 +33,11 @@ Script requires the following files:
 
 Script expects that ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled, from a plate obeying this layout:
 
-![alt text](./cmpd-map.png)
+![Expected compound mapping](./cmpd-map.png)
 
 Expect technical duplicates of three decreasing dose points, left-to-right in adjacent columns; and 2x treatment conditions per row, as per this layout:
 
-![alt text](./dose-map.png)
+![Expected dose mapping](./dose-map.png)
+
+
+![Expected output](./example.png)
