@@ -31,5 +31,5 @@ Script requires the following files:
 - ```annot.csv```: List of treatment annotations
 - ```doses.csv```: List of doses, in uM (expect 3 doses)
 
-We expect ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled:
+Script expects that ```data.csv``` was acquired on a GloMax Discover instrument, with 96w aperture, with all wells sampled, from a plate obeying this layout:
 ![alt text](./assay-plt-map.png)
