@@ -1,8 +1,7 @@
 # hibit96
 
 ## Description
-Script for normalizing test-well RLU data to on-plate vehicle-well RLU data, as acquired by a GloMax Discover
-- Given RLU data acquired as CSV from a 96w HiBiT assay plate, this script will:
+Script for normalizing test-well RLU data to on-plate vehicle-well RLU data, as acquired by a GloMax Discover. With such data, this script will:
       - Collect all data (and all its annotations: treatments & doses)
       - From all data, collect vehicle-well data
       - Re-express all data as percent of vehicle-well-in-column
